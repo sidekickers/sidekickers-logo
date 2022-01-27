@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="500"
+   height="500"
+   viewBox="0 0 132.29167 132.29167"
+   version="1.1"
+   id="svg18655"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="the-sidekickers-eq.svg"
+   inkscape:export-filename="D:\devzone\GitHub\the-sidekickers\the-sidekickers-eq.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview18657"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     width="500mm"
+     units="px"
+     inkscape:zoom="1.6369739"
+     inkscape:cx="186.3194"
+     inkscape:cy="256.26554"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer2" />
+  <defs
+     id="defs18652">
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow"
+       id="filter37901"
+       x="-0.016220307"
+       y="-0.0085918778"
+       width="1.0202862"
+       height="1.0377309">
+      <feFlood
+         flood-opacity="1"
+         flood-color="rgb(255,41,11)"
+         result="flood"
+         id="feFlood37891" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite37893" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="0"
+         result="blur"
+         id="feGaussianBlur37895" />
+      <feOffset
+         dx="-1.5"
+         dy="1.2"
+         result="offset"
+         id="feOffset37897" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite37899" />
+    </filter>
+  </defs>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="guideline"
+     style="display:none">
+    <rect
+       style="fill:#ff00d5;stroke:none;stroke-width:0.843627;stroke-linecap:round"
+       id="rect35140-7"
+       width="127"
+       height="1.0583333"
+       x="2.6458333"
+       y="-39.198826"
+       transform="rotate(90)" />
+    <rect
+       style="fill:#ff00d5;stroke:none;stroke-width:0.947738;stroke-linecap:round"
+       id="rect35140"
+       width="160.28004"
+       height="1.0583333"
+       x="-26.013247"
+       y="67.672546"
+       transform="rotate(-11)" />
+    <rect
+       style="display:inline;fill:#ff00d5;stroke:none;stroke-width:0.947738;stroke-linecap:round"
+       id="rect35140-5"
+       width="160.28004"
+       height="1.0583333"
+       x="-27.808744"
+       y="76.909805"
+       transform="rotate(-11)" />
+    <rect
+       style="display:inline;fill:#ff00d5;stroke:none;stroke-width:0.947738;stroke-linecap:round"
+       id="rect35140-5-3"
+       width="160.28004"
+       height="1.0583333"
+       x="-26.921965"
+       y="72.34758"
+       transform="rotate(-11)" />
+    <rect
+       style="display:inline;fill:none;stroke:#ff00d5;stroke-width:4.26353;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect874"
+       width="128.02814"
+       height="128.02814"
+       x="2.1317661"
+       y="2.1317644" />
+  </g>
+  <g
+     inkscape:label="the sidekickers"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="display:inline">
+    <g
+       id="g37791"
+       style="filter:url(#filter37901)"
+       transform="matrix(1.0080007,0,0,1.0080007,-0.02797196,-3.0755215)">
+      <text
+         xml:space="preserve"
+         style="font-size:19.05px;line-height:1.25;font-family:'LEMON MILK';-inkscape-font-specification:'LEMON MILK';fill:#f1ff29;fill-opacity:1;stroke:#000000;stroke-width:1.05833;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         x="-10.569358"
+         y="67.908096"
+         id="text20592"
+         transform="matrix(0.93083834,-0.18093664,0.18093664,0.93083834,4.2297877,5.6130258)"><tspan
+           sodipodi:role="line"
+           id="tspan20590"
+           style="font-style:italic;font-variant:normal;font-weight:500;font-stretch:normal;font-size:19.05px;font-family:'LEMON MILK';-inkscape-font-specification:'LEMON MILK Medium Italic';fill:#f1ff29;fill-opacity:1;stroke:#000000;stroke-width:1.05833;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           x="-10.569358"
+           y="67.908096">The</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:25.4px;line-height:1.25;font-family:'LEMON MILK';-inkscape-font-specification:'LEMON MILK';display:inline;fill:#f1ff29;fill-opacity:1;stroke:#000000;stroke-width:1.05833;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         x="24.702042"
+         y="73.133675"
+         id="text20596"
+         transform="matrix(0.93083834,-0.18093664,0.18093664,0.93083834,5.2881211,5.6130258)"><tspan
+           sodipodi:role="line"
+           id="tspan20594"
+           style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:25.4px;font-family:'LEMON MILK';-inkscape-font-specification:'LEMON MILK Bold Italic';fill:#f1ff29;fill-opacity:1;stroke:#000000;stroke-width:1.05833;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           x="24.702042"
+           y="73.133675"><tspan
+   style="font-size:31.75px"
+   id="tspan35197">S</tspan>ide</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:25.4px;line-height:1.25;font-family:'LEMON MILK';-inkscape-font-specification:'LEMON MILK';fill:#f1ff29;fill-opacity:1;stroke:#000000;stroke-width:1.05833;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         x="-4.5199194"
+         y="98.232712"
+         id="text20798"
+         transform="matrix(0.93083834,-0.18093664,0.18093664,0.93083834,4.2297877,5.0838591)"><tspan
+           sodipodi:role="line"
+           id="tspan20796"
+           style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:25.4px;font-family:'LEMON MILK';-inkscape-font-specification:'LEMON MILK Bold Italic';fill:#f1ff29;fill-opacity:1;stroke:#000000;stroke-width:1.05833;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           x="-4.5199194"
+           y="98.232712"
+           rotate="0 0"><tspan
+   style="font-size:31.75px"
+   id="tspan30783">K</tspan>ICKERS</tspan></text>
+    </g>
+  </g>
+</svg>
